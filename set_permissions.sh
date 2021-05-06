@@ -1,4 +1,4 @@
-#!/bin.bash
+#!/bin/bash
 
 WP_OWNER=www-data
 WP_GROUP=www-data
