@@ -1,7 +1,7 @@
 version: '3.1'
 services:
   wordpress:
-    image: rojen/php5.6-docker:latest
+    image: rojen/php5.6-docker:no-mysqli
     restart: always
     ports:
       - 8080:80

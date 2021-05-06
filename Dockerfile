@@ -32,7 +32,7 @@ RUN set -ex; \
 		bcmath \
 		exif \
 		gd \
-		mysqli \
+		mysql \
 		zip \
                 mcrypt \
 	; \
