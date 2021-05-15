@@ -9,7 +9,7 @@ Running WordPress on PHP-5.6 with MySQL-5.7 on Docker container
 
 ## Supported Tags
 
-- [php5.6-docker:no-mysqli](https://github.com/rojenzaman/wordpress-php56-docker/tree/no-mysqli) (for who does not support mysqli extension)
+- [php5.6-docker:no-mysqli](https://github.com/rojenzaman/wordpress-php56-docker/tree/no-mysqli) (for which theme does not support mysqli extension)
 - [php5.6-docker:latest](https://github.com/rojenzaman/wordpress-php56-docker/tree/main)
 
 ## Running container
